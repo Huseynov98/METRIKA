@@ -1,0 +1,510 @@
+body {
+   font-family: 'Manrope', sans-serif;
+   font-weight: 400;
+   line-height: 1px;
+
+}
+
+.wrapper {
+   margin-left: auto;
+   margin-right: auto;
+   background: #fff;
+   height: 7300px;
+   font-family: 'Manrope', sans-serif;
+   font-weight: 400;
+   max-width: 1400px;
+   min-width: 1150px;
+   width: 100%;
+}
+
+.container {
+   margin-left: auto;
+   margin-right: auto;
+   max-width: 1400px;
+   height: 7300px;
+   font-family: 'Manrope', sans-serif;
+   font-weight: 400;
+}
+
+
+
+.header {
+   margin: 0px 125px 0px 125px;
+   padding-top: 30px;
+   width: 1150px;
+   height: 30px;
+   font-family: 'Manrope', sans-serif;
+   display: flex;
+   justify-content: space-between;
+   font-size: 18px;
+   font-weight: 400;
+
+}
+
+.nav {
+   width: 500px;
+   display: flex;
+   justify-content: space-between;
+   text-transform: uppercase;
+   font-weight: 400;
+}
+
+
+.about a {
+   opacity: 0.5;
+   outline: none;
+   color: #121212;
+   font-weight: 400;
+}
+
+
+.project a {
+   text-decoration: none;
+   outline: none;
+   color: #121212;
+   font-weight: 400;
+}
+
+
+.services a {
+   text-decoration: none;
+   outline: none;
+   color: #121212;
+   font-weight: 400;
+}
+
+
+.contacts a {
+   text-decoration: none;
+   outline: none;
+   color: #121212;
+   font-weight: 400;
+}
+
+
+.container-2 {
+   margin: 130px 125px 150px 125px;
+   max-width: 1400px;
+   min-width: 1150px;
+   width: 1400px;
+   height: 700px;
+   font-weight: 400;
+   font-family: 'Manrope', sans-serif;
+}
+
+.block-1 {
+
+   width: 1150;
+   height: 550px;
+   background: url(../resources/sofa.svg) no-repeat;
+   font-size: 25px;
+   line-height: 35px;
+   letter-spacing: -0.03em;
+   font-weight: 400;
+   font-family: 'Manrope', sans-serif;
+}
+
+.text_we {
+
+   color: rgba(255, 255, 255, 1);
+   font-size: 25px;
+   line-height: 25px;
+   letter-spacing: -0.03em;
+   padding: 350px 0 50px 50px;
+   font-family: 'Manrope', sans-serif;
+
+}
+
+h1 {
+   font-size: 60px;
+   line-height: 60px;
+   margin-bottom: 30px;
+   letter-spacing: -0.03em;
+   font-family: 'Manrope';
+   font-weight: 400;
+
+}
+
+
+
+.about-1 a {
+   width: 1150px;
+   height: 550px;
+   font-family: 'Manrope'sans-serif;
+   font-weight: 400;
+   text-align: center;
+   text-decoration: none;
+   color: #fff;
+}
+
+
+
+.text_2011 h2 {
+   /* margin: 200px; */
+   width: 55px;
+   height: 30px;
+   font-size: 18px;
+   line-height: 30px;
+   letter-spacing: -0.03em;
+   text-transform: uppercase;
+   font-family: 'Manrope'sans-serif;
+   font-weight: 400;
+
+}
+
+h2 {
+   margin-top: 30px;
+   height: 370px;
+   width: 1052px;
+   font-size: 45px;
+   line-height: 62px;
+   letter-spacing: -0.03em;
+   font-family: 'Manrope'sans-serif;
+   font-weight: 400;
+   text-align: left;
+}
+
+
+
+.text_button {
+   margin-top: 30px;
+   width: 260px;
+   height: 70px;
+   font-weight: 400;
+   background: #AD1818;
+   border-radius: 5px;
+   font-family: Manrope;
+   font-size: 20px;
+   font-weight: 400;
+   line-height: 27px;
+   letter-spacing: -0.03em;
+
+
+}
+
+.text__button_see_service {
+   width: 175px;
+   height: 30px;
+   text-align: center;
+   text-decoration: none;
+   outline: none;
+   color: #fff;
+   padding: 20px 40px 20px 40px;
+   margin-top: 30px;
+}
+
+
+.project_content {
+   /* margin: auto;
+      margin-top: 818px;
+         margin-left: 125px; */
+   /* margin: 700px 125px 0px 125px; */
+   margin-top: 650px;
+   margin-left: 125px;
+   width: 1400px;
+   height: 2125px;
+   border: 1px rgba(173, 24, 24, 1);
+   font-size: 18px;
+   /* padding-top: 10px; */
+   font-weight: 400;
+   font-family: "Manrope"sans-serif;
+
+
+}
+
+
+/* .project_content p{
+   padding-top: 15px;
+   color:#AD1818;
+   text-decoration: none;
+   outline: none;
+   font-size: 20px;
+   line-height: 28px;
+
+
+} */
+
+.more a {
+   padding-top: 15px;
+   color: #AD1818;
+   text-decoration: none;
+   outline: none;
+   font-size: 20px;
+   line-height: 28px;
+}
+
+/* .more :hover{
+   color:#AD1818;
+      text-decoration: none;
+         outline: none;
+            font-size: 20px;
+               line-height: 28px;
+} */
+
+.project_content_item {
+   margin-top: 30px;
+   height: 450px;
+   width: 1150px;
+   outline: none;
+}
+
+
+/* .project_content_item p {
+   padding-top: 15px;
+   color:#AD1818;
+   text-decoration: none;
+   outline: none;
+   font-size: 20px;
+   line-height: 28px;
+   
+} */
+
+h3 {
+   padding-bottom: 15px;
+   /* margin-top: 15px; */
+   font-family: 'Manrope'sans-serif;
+   font-size: 30px;
+   font-weight: 400;
+   line-height: 41px;
+   letter-spacing: -0.03em;
+   text-decoration: none;
+   outline: none;
+
+
+
+}
+
+.project_content_item_2 {
+   margin-top: 160px;
+   width: 1150px;
+   height: 550px;
+   outline: none;
+}
+
+.project_content_item_3 {
+   margin-top: 90px;
+   width: 1150px;
+   height: 550px;
+   outline: none;
+   margin-bottom: 100px;
+}
+
+.project_content_item_4 {
+   font-family: 'Manrope'sans-serif;
+   width: 1150px;
+   height: 158px;
+   border: 1px solid #AD1818;
+   color: #AD1818;
+   border-radius: 5px;
+   text-align: center;
+   font-size: 32px;
+   line-height: 41px;
+   text-decoration: none;
+   outline: none;
+   letter-spacing: -0.03em;
+
+}
+
+.see__all__projeck {
+   display: block;
+   height: 40px;
+   width: 1150px;
+   padding: 60px 0 60px 0;
+   text-decoration: none;
+   outline: none;
+   color: #AD1818;
+
+}
+
+.project_content_item_4 :hover a {
+   background: #AD1818;
+   font-family: 'Manrope'sans-serif;
+   color: #fff;
+   border-radius: 3px;
+   height: 38px;
+   width: 1150px;
+   font-size: 30px;
+   line-height: 41px;
+   text-decoration: none;
+   outline: none;
+   letter-spacing: -0.03em;
+   /* transition: 3s linear; */
+   /* border: 1px solid #AD1818; */
+}
+
+.service__container {
+   padding-top: 30px;
+   margin-left: 0;
+   margin-top: 150px;
+   background: #121212;
+   height: 1900px;
+   min-width: 1150px;
+   max-width: 1500px;
+   width: 1400px;
+
+}
+
+.service__container h2 {
+   text-align: left;
+   padding-bottom: 35px;
+   /* padding-top: 125px; */
+   width: 55px;
+   height: 30px;
+   font-size: 18px;
+   line-height: 25px;
+   letter-spacing: -0.03em;
+   text-transform: uppercase;
+   font-family: 'Manrope'sans-serif;
+   font-weight: 400;
+   color: #ffffff;
+}
+
+.service__container h3 {
+   padding-top: 15px;
+   font-family: 'Manrope'sans-serif;
+   font-style: normal;
+   font-size: 30px;
+   font-weight: 400;
+   line-height: 41px;
+   letter-spacing: -0.03em;
+   color: #ffffff;
+}
+
+.service__container__item {
+   width: 1150px;
+   height: 330px;
+   /* padding-top: 150px;
+   padding-left: 130px;  */
+   margin-top: 125px;
+   margin-left: 130px;
+}
+
+
+.service__container__item-2 {
+   width: 1150px;
+   height: 330px;
+   padding-top: 60px;
+   padding-left: 130px;
+}
+
+
+.container_double_room_item {
+   height: 717px;
+   background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0.52%, rgba(0, 0, 0, 0.4) 82.81%), url(/resources/double\ bed.jpg)no-repeat;
+   max-width: 1400px;
+   min-width: 1150px;
+   width: 1400px;
+}
+
+.container_double_room_item h3{
+   width: 445px;
+   height: 85px;
+   padding-top: 580px;
+   padding-left: 125px;
+   font-family: 'Manrope';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 30px;
+   line-height: 41px;
+   letter-spacing: -0.03em;
+   color: #ffffff;
+}
+
+.contacts__item{
+   display: block;
+width: 1400px;
+height: 600px;
+
+}
+
+.contacts__item h1{
+   padding: 35px 0px 0px 125px;
+   font-family: 'Manrope';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 60px;
+   line-height: 60px;
+   letter-spacing: -0.03em;
+   color: #121212;
+}
+.icon_momile{
+   width: 15px;
+   height: 25px;
+   padding: 155px 0px 0px 125px;
+}
+
+.contacts__item p{
+   width: 90px;
+   height: 30px;
+   padding: 15px 0px 0px 125px;
+   font-family: 'Manrope';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 25px;
+   color: #121212;
+   letter-spacing: -0.03em;
+   text-transform: uppercase;
+}
+
+.mail a {
+   padding-top: 30px;
+   padding-left: 0px;
+   font-family: 'Manrope';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 60px;
+   line-height: 60px;
+   letter-spacing: -0.03em;
+   color: #121212;
+   opacity: 0.5;
+  text-decoration: none;
+
+}
+.footer__container{
+   margin: 0 auto;
+    display: flex;
+   flex-direction: column; 
+   align-items:flex-start; 
+   justify-content: space-around;
+   align-items: center;
+   width: 1400px;
+   height: 230px;
+   background-color: #121212;
+ 
+}
+.footer__container p{
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+letter-spacing: -0.03em;
+opacity: 0.5;
+color: #FFFFFF;
+
+
+}
+.footer_nav{
+   margin: 0 auto;
+   text-align: center;
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: row;
+   align-content: space-between;
+   justify-content: space-between;
+   width: 450px;
+   height: 30px;
+   font-family: 'Manrope';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 25px;
+   letter-spacing: -0.03em;
+   text-transform: uppercase;
+   color: #FFFFFF;
+}
+.footer_nav a{
+color: #FFFFFF;
+   opacity: 0.5;
+}
