@@ -390,7 +390,7 @@ h3 {
 
 .container_double_room_item {
    height: 717px;
-   background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0.52%, rgba(0, 0, 0, 0.4) 82.81%), url(/resources/double\ bed.jpg)no-repeat;
+   background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0.52%, rgba(0, 0, 0, 0.4) 82.81%), url(../resources/double\ bed.jpg)no-repeat;
    max-width: 1400px;
    min-width: 1150px;
    width: 1400px;
