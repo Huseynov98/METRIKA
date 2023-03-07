@@ -402,17 +402,19 @@ h3 {
 }
 
 .container_double_room_item h3{
-   width: 445px;
-   height: 85px;
-   padding-top: 580px;
-   padding-left: 125px;
-   font-family: 'Manrope';
-   font-style: normal;
-   font-weight: 400;
-   font-size: 30px;
-   line-height: 41px;
-   letter-spacing: -0.03em;
-   color: #ffffff;
+   margin: 0 auto;
+    width: 445px;
+    height: 190px;
+    padding-top: 575px;
+    margin-left: 125px;
+    padding-left: -53px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 41px;
+    letter-spacing: -0.03em;
+    color: #ffffff;
 }
 
 .contacts__item{
